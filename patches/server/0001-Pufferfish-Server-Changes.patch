@@ -1918,7 +1918,7 @@ index d6cbe98e67fdbf8db46338a88ab1356dd63b50a3..20dd3a63b2f955b05a75eb240e33ae4c
      int LARGE_MAX_STACK_SIZE = 64;
      int DEFAULT_DISTANCE_LIMIT = 8;
 diff --git a/src/main/java/net/minecraft/world/entity/Entity.java b/src/main/java/net/minecraft/world/entity/Entity.java
-index f5a86c0fb1a7a313afc4c56ffc445a7fe7821428..4a68726ba1e787001f8d1cdb713778ac630850e8 100644
+index b2eff51f1ad1e702525ef298807ea7d2083f6218..5c5c8fbd562b46f8699be97353447eaab36c007a 100644
 --- a/src/main/java/net/minecraft/world/entity/Entity.java
 +++ b/src/main/java/net/minecraft/world/entity/Entity.java
 @@ -309,7 +309,7 @@ public abstract class Entity implements Nameable, EntityAccess, CommandSource, S
